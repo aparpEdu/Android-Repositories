@@ -1,9 +1,5 @@
 # Android Repositories
 
-
-
-
-
 **1. Unit Converter :
 [![GitHub Logo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/aparpEdu/Unit-Converter-Android-App)**
 
