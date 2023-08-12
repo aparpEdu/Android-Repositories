@@ -1,11 +1,5 @@
-<style>
-.custom-background {
-    background-color: #333333;
-    padding: 20px;
-}
-</style>
 
-<div class="custom-background">
+<div style="background-color: #333333; padding: 20px;">
 
 # Android Repositories
 
