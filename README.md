@@ -14,5 +14,5 @@
 
 **4. Cookie Clicker(Java 8): [![GitHub Logo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/aparpEdu/Cookie-Clicker-Android-App)**
 
-**5. Picasso(Java 8): [![GitHub Logo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/aparpEdu/Picasso-Android)**
+**5. Picasso(Java 8): [![GitHub Logo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/aparpEdu/Image-Gallery)**
 
